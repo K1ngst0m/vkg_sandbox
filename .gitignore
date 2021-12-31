@@ -1,0 +1,8 @@
+build/
+bin/
+.cache/
+compile_commands.json
+.gdb_history
+shaders/*spv
+third_party/sdl2
+core
